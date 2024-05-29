@@ -11,3 +11,6 @@ Config
 2. cd pihole
 3. ESPAÑOL ./adlist.sh
 4. ENGLISH ./adlist_en.sh
+
+Si da algun error da permisos chmod +x adlist.sh
+If makes any error give chmod +x adlist_en.sh
